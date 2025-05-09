@@ -26,7 +26,7 @@ export default function ProfileForm({ initialData = {}, onSubmit }: Props) {
       }}
       className="max-w-xl mx-auto bg-white p-6 rounded shadow space-y-4"
     >
-      <h2 className="text-2xl font-bold text-center">Edit Profile</h2>
+      <h2 className="text-2xl font-bold text-center"> Create or Edit Profile</h2>
       <input
         className="w-full border p-2 rounded"
         name="full_name"
